@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/squiggler/static/css/main.65ca9caa.chunk.css",
-    "main.js": "/squiggler/static/js/main.be7246ad.chunk.js",
-    "main.js.map": "/squiggler/static/js/main.be7246ad.chunk.js.map",
+    "main.css": "/squiggler/static/css/main.e7223127.chunk.css",
+    "main.js": "/squiggler/static/js/main.6ab8fb53.chunk.js",
+    "main.js.map": "/squiggler/static/js/main.6ab8fb53.chunk.js.map",
     "runtime~main.js": "/squiggler/static/js/runtime~main.3c083e4e.js",
     "runtime~main.js.map": "/squiggler/static/js/runtime~main.3c083e4e.js.map",
-    "static/js/2.33388efd.chunk.js": "/squiggler/static/js/2.33388efd.chunk.js",
-    "static/js/2.33388efd.chunk.js.map": "/squiggler/static/js/2.33388efd.chunk.js.map",
+    "static/js/2.c4ac665d.chunk.js": "/squiggler/static/js/2.c4ac665d.chunk.js",
+    "static/js/2.c4ac665d.chunk.js.map": "/squiggler/static/js/2.c4ac665d.chunk.js.map",
     "index.html": "/squiggler/index.html",
-    "precache-manifest.f58cac2410c71db92280a537d0c8dc08.js": "/squiggler/precache-manifest.f58cac2410c71db92280a537d0c8dc08.js",
+    "precache-manifest.50354a44a255e5b59be41073b75a7289.js": "/squiggler/precache-manifest.50354a44a255e5b59be41073b75a7289.js",
     "service-worker.js": "/squiggler/service-worker.js",
-    "static/css/main.65ca9caa.chunk.css.map": "/squiggler/static/css/main.65ca9caa.chunk.css.map",
+    "static/css/main.e7223127.chunk.css.map": "/squiggler/static/css/main.e7223127.chunk.css.map",
     "static/media/acorn.svg": "/squiggler/static/media/acorn.4ee5f938.svg",
     "static/media/squiggle_default.jpeg": "/squiggler/static/media/squiggle_default.ca58fb5a.jpeg"
   }
