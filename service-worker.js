@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/squiggler/precache-manifest.e5f1a0d760b342de87fa44ad66d22608.js"
+  "/squiggler/precache-manifest.c42299fd3fb7d8a4abcb171c944486ab.js"
 );
 
 self.addEventListener('message', (event) => {
