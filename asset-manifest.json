@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/squiggler/static/css/main.65ca9caa.chunk.css",
-    "main.js": "/squiggler/static/js/main.4f83a8ef.chunk.js",
-    "main.js.map": "/squiggler/static/js/main.4f83a8ef.chunk.js.map",
+    "main.js": "/squiggler/static/js/main.75400e49.chunk.js",
+    "main.js.map": "/squiggler/static/js/main.75400e49.chunk.js.map",
     "runtime~main.js": "/squiggler/static/js/runtime~main.3c083e4e.js",
     "runtime~main.js.map": "/squiggler/static/js/runtime~main.3c083e4e.js.map",
     "static/js/2.530f7852.chunk.js": "/squiggler/static/js/2.530f7852.chunk.js",
     "static/js/2.530f7852.chunk.js.map": "/squiggler/static/js/2.530f7852.chunk.js.map",
     "index.html": "/squiggler/index.html",
-    "precache-manifest.7fcc567027d80d17a6dd3da19ffd6540.js": "/squiggler/precache-manifest.7fcc567027d80d17a6dd3da19ffd6540.js",
+    "precache-manifest.d239b4b033909dd9b9ff3aa8e46a50db.js": "/squiggler/precache-manifest.d239b4b033909dd9b9ff3aa8e46a50db.js",
     "service-worker.js": "/squiggler/service-worker.js",
     "static/css/main.65ca9caa.chunk.css.map": "/squiggler/static/css/main.65ca9caa.chunk.css.map",
     "static/media/acorn.svg": "/squiggler/static/media/acorn.4ee5f938.svg",
