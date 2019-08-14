@@ -2,7 +2,7 @@
   "name": "squiggler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zi-codes.github.io/squiggler",
+
   "dependencies": {
     "@material-ui/core": "^4.3.2",
     "@material-ui/icons": "^4.2.1",

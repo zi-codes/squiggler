@@ -1,6 +1,11 @@
 #outlined-multiline-flexible {
   width:100%;
 }
+
+a {
+  text-decoration: none;
+}
+
 .App {
   text-align: center;
 }

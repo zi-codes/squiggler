@@ -46,7 +46,7 @@ class Squiggle extends React.Component {
     return (
 
       <Grid item key={squiggle.id} xs={12}>
-        <CardActionArea component="a" href="#">
+        <CardActionArea>
           <Card >
 
             <Grid container spacing={0}>
