@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route } from 'react-router-dom'
 import Gateway from './components/Gateway'
 import SignUp from './components/SignUp'
 import LogIn from './components/LogIn'
@@ -13,14 +13,14 @@ function App() {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="sm">
-        <HashRouter baseline={process.env.PUBLIC_URL}>
+        <BrowserRouter>
           <Route exact path = "/" component={Gateway} />
 
             <Route path = "/signup" component={SignUp} />
             <Route path = "/login" component={LogIn} />
 
           <Route path = "/squiggles" component={FowwestView} />
-        </HashRouter>
+        </BrowserRouter>
       </Container>
     </React.Fragment>
   );
