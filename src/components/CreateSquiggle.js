@@ -31,10 +31,10 @@ class CreateSquiggle extends React.Component {
       <Paper style={{margin: "30px 0", padding:"20px 0px"}}>
         <form onSubmit={this.handleSubmit}>
           <Grid container
-            spacing={1}
             direction="column"
             justify="center"
-            alignItems="center"
+            spacing={1}
+
           >
             <Grid item xs={12}>
               <TextField
